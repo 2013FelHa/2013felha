@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: Arial;
+    text-align: center;
+}
+
+header{
+    background-color: #111;
+    padding: 30px;
+}
+
+.video{
+    margin-top: 50px;
+}
